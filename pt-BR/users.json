@@ -1,0 +1,10 @@
+{
+  "users": [
+    {
+      "id": "gleysonabreu-1",
+      "name": "Gleyson Abreu",
+      "subtitle": "Desenvolvedor full-stack e entusiasta de inovação",
+      "bio": "Mais de 4 anos de experiência na indústria de tecnologia. Sou especializado na construção de aplicativos web e móveis inovadores usando tecnologias como React, React Native e Node.js."
+    }
+  ]
+}
