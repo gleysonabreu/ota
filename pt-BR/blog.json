@@ -8,6 +8,7 @@
       "image": "https://raw.githubusercontent.com/gleysonabreu/ota/main/imgs/typeweather-cover.png",
       "slug": "typeweather-app",
       "mdId": "typeweather",
+      "icons": "typescript|tailwindcss|nextjs",
       "actions": {
         "code": "https://github.com/gleysonabreu/typeweather",
         "livePreview": "https://typeweather.vercel.app"
