@@ -13,6 +13,20 @@
         "code": "https://github.com/gleysonabreu/typeweather",
         "livePreview": "https://typeweather.vercel.app"
       }
+    },
+    {
+      "id": "shopping-list",
+      "title": "Shopping List",
+      "snippet": "Lista de verificación para la lista de compras para uso diario.",
+      "date": "11-29-2023",
+      "image": "https://raw.githubusercontent.com/gleysonabreu/ota/main/imgs/shopping-list-cover.png",
+      "slug": "shopping-list",
+      "mdId": "shopping-list",
+      "icons": "typescript|tailwindcss|nextjs",
+      "actions": {
+        "code": "https://github.com/gleysonabreu/shopping-list",
+        "livePreview": "https://shopping-list-phi-self.vercel.app"
+      }
     }
   ]
 }
