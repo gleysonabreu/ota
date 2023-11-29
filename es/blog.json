@@ -1,3 +1,18 @@
 {
-  "posts": []
+  "posts": [
+    {
+      "id": "typeweather-1",
+      "title": "Typeweather",
+      "snippet": "Typeweather es una aplicación para verificar datos meteorológicos y pronósticos del tiempo.",
+      "date": "11-27-2023",
+      "image": "https://raw.githubusercontent.com/gleysonabreu/ota/main/imgs/typeweather-cover.png",
+      "slug": "typeweather-app",
+      "mdId": "typeweather",
+      "icons": "typescript|tailwindcss|nextjs",
+      "actions": {
+        "code": "https://github.com/gleysonabreu/typeweather",
+        "livePreview": "https://typeweather.vercel.app"
+      }
+    }
+  ]
 }
