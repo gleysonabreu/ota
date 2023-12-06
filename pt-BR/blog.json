@@ -27,6 +27,20 @@
         "code": "https://github.com/gleysonabreu/shopping-list",
         "livePreview": "https://shopping-list-phi-self.vercel.app"
       }
+    },
+    {
+      "id": "movieai",
+      "title": "MovieAI",
+      "snippet": "Mostra filmes diários como opção para assistir.",
+      "date": "12-06-2023",
+      "image": "https://raw.githubusercontent.com/gleysonabreu/ota/main/imgs/movieai_logo.png",
+      "slug": "movieai",
+      "mdId": "movieai",
+      "icons": "typescript|tailwindcss|nextjs",
+      "actions": {
+        "code": "https://https://github.com/gleysonabreu/movieai",
+        "livePreview": "https://movieai.vercel.app/"
+      }
     }
   ]
 }
