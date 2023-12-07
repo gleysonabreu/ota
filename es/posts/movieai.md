@@ -1,4 +1,4 @@
-![img](https://raw.githubusercontent.com/gleysonabreu/ota/main/imgs/movie.png)
+![img](https://raw.githubusercontent.com/gleysonabreu/ota/main/imgs/movieai.png)
 
 ### Sobre el proyecto
 
