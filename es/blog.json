@@ -41,6 +41,20 @@
         "code": "https://https://github.com/gleysonabreu/movieai",
         "livePreview": "https://movieai.vercel.app/"
       }
+    },
+    {
+      "id": "ciphery",
+      "title": "Ciphery",
+      "snippet": "Es un proyecto para generar y cifrar contraseñas.",
+      "date": "12-07-2023",
+      "image": "https://raw.githubusercontent.com/gleysonabreu/ota/main/imgs/ciphery_logo.png",
+      "slug": "ciphery",
+      "mdId": "ciphery",
+      "icons": "typescript|tailwindcss|nextjs",
+      "actions": {
+        "code": "https://github.com/gleysonabreu/ciphery",
+        "livePreview": "https://ciphery.vercel.app/"
+      }
     }
   ]
 }
